@@ -1,0 +1,17 @@
+{
+    "Rice":
+    {
+      "Weight": 30.5,
+      "PricePerKG": 80.0
+    },
+    "Pulses":
+    {
+      "Weight": 25,
+      "PricePerKG": 60.0
+    },
+    "Wheat":
+    {
+      "Weight": 10,
+      "PricePerKG": 99.9
+    }
+}
